@@ -5,6 +5,7 @@ A doubly linked list is implemented using a structure that contains three fields
 
 ## 2. Description of Functions Implemented
 
+ 
 - **createNode(int value)**  
   This function creates a new node dynamically and initializes its data, previous pointer, and next pointer.
 
